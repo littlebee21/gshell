@@ -117,23 +117,18 @@ if ! shopt -oq posix; then
 fi
 
 
-alias tr='tree'
-alias hisf='$(fc -l -n|fzf)'
-alias lf=' du -h --max-depth=1 ./'
-alias lsg='ls|grep'
 
 
 #cd "$(fdfind -t d $1 |fzf --preview 'cat {}')"
 # used in all edit
-function f(){
-	export FP="$(locate $1 |fzf --preview 'cat {}')"
+function ff(){
+	export FP="$(locate * |fzf --preview 'cat {}')"
 	echo ${FP}
-	vim ${FP}
 	sudo updatedb &
 }
 
 # used in project edit
-function ff(){
+function f(){
 	export FP="$(fdfind $1 |fzf --preview 'cat {}')"
 	echo ${FP}
 }

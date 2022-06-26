@@ -96,58 +96,58 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://aliyun.rubyfish.cn/dns-query
 proxies:
-- { name: "HK丨香港01丨NF", type: vmess, server: ai1.acciff.com, port: 10101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "HK丨香港02丨NF", type: vmess, server: ai1.acciff.com, port: 10102, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "HK丨香港03丨NF", type: vmess, server: ai1.acciff.com, port: 10103, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "HK丨香港04丨NF", type: vmess, server: ai1.acciff.com, port: 10104, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "HK丨香港05丨NF", type: vmess, server: ai1.acciff.com, port: 10105, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "TW丨台湾01丨NF", type: vmess, server: ai1.acciff.com, port: 10201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "TW丨台湾02丨NF", type: vmess, server: ai1.acciff.com, port: 10202, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "TW丨台湾03丨NF", type: vmess, server: ai1.acciff.com, port: 10203, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "JP丨日本01丨NF", type: vmess, server: ai1.acciff.com, port: 10301, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "KR丨韩国01丨NF", type: vmess, server: ai1.acciff.com, port: 10401, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "SG丨新加坡01丨NF", type: vmess, server: ai1.acciff.com, port: 10501, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "IN丨印度01丨NF", type: vmess, server: ai1.acciff.com, port: 10601, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "PH丨菲律宾01丨NF", type: vmess, server: ai1.acciff.com, port: 10701, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "PH丨菲律宾02丨NF", type: vmess, server: ai1.acciff.com, port: 10702, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "TH丨泰国01丨NF", type: vmess, server: ai1.acciff.com, port: 10801, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "VN丨越南01丨NF", type: vmess, server: ai1.acciff.com, port: 10901, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "ID丨印度尼西亚01丨NF", type: vmess, server: ai1.acciff.com, port: 11001, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "PK丨巴基斯坦01丨NF 3x", type: vmess, server: ai1.acciff.com, port: 11101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "IL丨以色列01丨NF 2x", type: vmess, server: ai1.acciff.com, port: 11201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "KZ丨哈萨克斯坦01丨NF", type: vmess, server: ai1.acciff.com, port: 11301, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "AE丨阿联酋01丨NF 3x", type: vmess, server: ai1.acciff.com, port: 11401, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "MY丨马来西亚01丨NF", type: vmess, server: ai1.acciff.com, port: 11501, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "US丨加利福利亚01丨NF", type: vmess, server: ai1.acciff.com, port: 20101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "US丨纽约01丨YT", type: vmess, server: ai1.acciff.com, port: 20201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "US丨得克萨斯01丨YT", type: vmess, server: ai1.acciff.com, port: 20301, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "US丨佛罗里达01丨NF", type: vmess, server: ai1.acciff.com, port: 20401, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "US丨华盛顿01丨YT", type: vmess, server: ai1.acciff.com, port: 20501, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "US丨俄勒冈01丨NF", type: vmess, server: ai1.acciff.com, port: 20601, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "CA丨加拿大01丨YT", type: vmess, server: ai1.acciff.com, port: 20701, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "MX丨墨西哥01丨NF", type: vmess, server: ai1.acciff.com, port: 20801, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "AR丨阿根廷01丨NF", type: vmess, server: ai1.acciff.com, port: 30101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "BR丨巴西01丨NF", type: vmess, server: ai1.acciff.com, port: 30201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "UK丨英国01丨NF", type: vmess, server: ai1.acciff.com, port: 40101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "FR丨法国01丨YT", type: vmess, server: ai1.acciff.com, port: 40201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "DE丨德国01丨NF", type: vmess, server: ai1.acciff.com, port: 40301, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "IT丨意大利01丨NF", type: vmess, server: ai1.acciff.com, port: 40401, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "NL丨荷兰01丨NF", type: vmess, server: ai1.acciff.com, port: 40501, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "SE丨瑞典01丨NF", type: vmess, server: ai1.acciff.com, port: 40601, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "RU丨俄罗斯01丨NF", type: vmess, server: ai1.acciff.com, port: 40701, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "UA丨乌克兰01丨NF", type: vmess, server: ai1.acciff.com, port: 40801, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "TR丨土耳其01丨NF", type: vmess, server: ai1.acciff.com, port: 40901, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "PL丨波兰01丨NF", type: vmess, server: ai1.acciff.com, port: 41001, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "DK丨丹麦01丨NF", type: vmess, server: ai1.acciff.com, port: 41101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "LT丨立陶宛01丨NF", type: vmess, server: ai1.acciff.com, port: 41201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "LV丨拉脱维亚01丨NF", type: vmess, server: ai1.acciff.com, port: 41301, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "CH丨瑞士01丨NF", type: vmess, server: ai1.acciff.com, port: 41401, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "RO丨罗马尼亚01丨NF", type: vmess, server: ai1.acciff.com, port: 41501, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "AU丨澳大利亚01丨YT", type: vmess, server: ai1.acciff.com, port: 50101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "AU丨澳大利亚02丨YT", type: vmess, server: ai1.acciff.com, port: 50102, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "NZ丨新西兰01丨NF 3x", type: vmess, server: ai1.acciff.com, port: 50201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "EG丨埃及01丨NF", type: vmess, server: ai1.acciff.com, port: 60101, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
-- { name: "ZA丨南非01丨NF", type: vmess, server: ai1.acciff.com, port: 60201, uuid: C836AA9D-7A8E-653F-E255-3C94C8486437, alterId: 0, cipher: auto, network: tcp}
+- { name: "HK丨香港01丨NF", type: vmess, server: ai1.acciff.com, port: 10101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "HK丨香港02丨NF", type: vmess, server: ai1.acciff.com, port: 10102, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "HK丨香港03丨NF", type: vmess, server: ai1.acciff.com, port: 10103, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "HK丨香港04丨NF", type: vmess, server: ai1.acciff.com, port: 10104, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "HK丨香港05丨NF", type: vmess, server: ai1.acciff.com, port: 10105, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "TW丨台湾01丨NF", type: vmess, server: ai1.acciff.com, port: 10201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "TW丨台湾02丨NF", type: vmess, server: ai1.acciff.com, port: 10202, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "TW丨台湾03丨NF", type: vmess, server: ai1.acciff.com, port: 10203, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "JP丨日本01丨NF", type: vmess, server: ai1.acciff.com, port: 10301, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "KR丨韩国01丨NF", type: vmess, server: ai1.acciff.com, port: 10401, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "SG丨新加坡01丨NF", type: vmess, server: ai1.acciff.com, port: 10501, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "IN丨印度01丨NF", type: vmess, server: ai1.acciff.com, port: 10601, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "PH丨菲律宾01丨NF", type: vmess, server: ai1.acciff.com, port: 10701, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "PH丨菲律宾02丨NF", type: vmess, server: ai1.acciff.com, port: 10702, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "TH丨泰国01丨NF", type: vmess, server: ai1.acciff.com, port: 10801, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "VN丨越南01丨NF", type: vmess, server: ai1.acciff.com, port: 10901, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "ID丨印度尼西亚01丨NF", type: vmess, server: ai1.acciff.com, port: 11001, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "PK丨巴基斯坦01丨NF 3x", type: vmess, server: ai1.acciff.com, port: 11101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "IL丨以色列01丨NF 2x", type: vmess, server: ai1.acciff.com, port: 11201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "KZ丨哈萨克斯坦01丨NF", type: vmess, server: ai1.acciff.com, port: 11301, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "AE丨阿联酋01丨NF 3x", type: vmess, server: ai1.acciff.com, port: 11401, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "MY丨马来西亚01丨NF", type: vmess, server: ai1.acciff.com, port: 11501, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "US丨加利福利亚01丨NF", type: vmess, server: ai1.acciff.com, port: 20101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "US丨纽约01丨YT", type: vmess, server: ai1.acciff.com, port: 20201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "US丨得克萨斯01丨YT", type: vmess, server: ai1.acciff.com, port: 20301, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "US丨佛罗里达01丨NF", type: vmess, server: ai1.acciff.com, port: 20401, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "US丨华盛顿01丨YT", type: vmess, server: ai1.acciff.com, port: 20501, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "US丨俄勒冈01丨NF", type: vmess, server: ai1.acciff.com, port: 20601, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "CA丨加拿大01丨YT", type: vmess, server: ai1.acciff.com, port: 20701, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "MX丨墨西哥01丨NF", type: vmess, server: ai1.acciff.com, port: 20801, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "AR丨阿根廷01丨NF", type: vmess, server: ai1.acciff.com, port: 30101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "BR丨巴西01丨NF", type: vmess, server: ai1.acciff.com, port: 30201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "UK丨英国01丨NF", type: vmess, server: ai1.acciff.com, port: 40101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "FR丨法国01丨YT", type: vmess, server: ai1.acciff.com, port: 40201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "DE丨德国01丨NF", type: vmess, server: ai1.acciff.com, port: 40301, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "IT丨意大利01丨NF", type: vmess, server: ai1.acciff.com, port: 40401, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "NL丨荷兰01丨NF", type: vmess, server: ai1.acciff.com, port: 40501, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "SE丨瑞典01丨NF", type: vmess, server: ai1.acciff.com, port: 40601, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "RU丨俄罗斯01丨NF", type: vmess, server: ai1.acciff.com, port: 40701, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "UA丨乌克兰01丨NF", type: vmess, server: ai1.acciff.com, port: 40801, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "TR丨土耳其01丨NF", type: vmess, server: ai1.acciff.com, port: 40901, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "PL丨波兰01丨NF", type: vmess, server: ai1.acciff.com, port: 41001, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "DK丨丹麦01丨NF", type: vmess, server: ai1.acciff.com, port: 41101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "LT丨立陶宛01丨NF", type: vmess, server: ai1.acciff.com, port: 41201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "LV丨拉脱维亚01丨NF", type: vmess, server: ai1.acciff.com, port: 41301, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "CH丨瑞士01丨NF", type: vmess, server: ai1.acciff.com, port: 41401, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "RO丨罗马尼亚01丨NF", type: vmess, server: ai1.acciff.com, port: 41501, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "AU丨澳大利亚01丨YT", type: vmess, server: ai1.acciff.com, port: 50101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "AU丨澳大利亚02丨YT", type: vmess, server: ai1.acciff.com, port: 50102, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "NZ丨新西兰01丨NF 3x", type: vmess, server: ai1.acciff.com, port: 50201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "EG丨埃及01丨NF", type: vmess, server: ai1.acciff.com, port: 60101, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
+- { name: "ZA丨南非01丨NF", type: vmess, server: ai1.acciff.com, port: 60201, uuid: C4916F7B-8D2D-C204-2E47-167CDFF0CC54, alterId: 0, cipher: auto, network: tcp}
 
 
 proxy-groups:
@@ -160,8 +160,8 @@ proxy-groups:
   - { name: "🎯 全球直连", type: select, proxies: ["DIRECT"]}
   - { name: "🛑 全球拦截", type: select, proxies: ["REJECT","DIRECT"]}
   - { name: "⛔ 应用拦截", type: select, proxies: ["REJECT","DIRECT"]}
-  - { name: "⛽ 剩余流量:110G", type: select, proxies: [DIRECT]}
-  - { name: "📅 到期时间:2022-07-08", type: select, proxies: [DIRECT]}
+  - { name: "⛽ 剩余流量:120G", type: select, proxies: [DIRECT]}
+  - { name: "📅 到期时间:2022-07-20", type: select, proxies: [DIRECT]}
 rules:
  - DOMAIN-SUFFIX,local,DIRECT
  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
